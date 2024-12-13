@@ -1,0 +1,16 @@
+[?2004l
+Digite o 1 número: 23
+Digite o 2 número: 64
+Digite o 3 número: 17
+Digite o 4 número: 82
+Digite o 5 número: 0
+Digite o 6 número: 4
+Digite o 7 número: 1
+Digite o 8 número: 834
+Digite o 9 número: 78
+Digite o 10 número: 1
+Digite o 11 número: 8
+Digite o 12 número: 4
+Números em ordem decrescente:
+834 82 78 64 23 17 8 4 4 1 1 0 
+[?2004h

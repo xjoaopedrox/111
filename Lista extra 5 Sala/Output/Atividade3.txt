@@ -1,0 +1,19 @@
+[?2004l
+Digite o 1 número: 23  854
+Digite o 2 número: 45
+Digite o 3 número: 43
+Digite o 4 número: 32
+Digite o 5 número: 21
+Digite o 6 número: 97
+Digite o 7 número: 65
+Digite o 8 número: 35
+Digite o 9 número: 687
+Digite o 10 número: 965
+Digite o 11 número: 3
+Digite o 12 número: 90
+Digite o 13 número: 56
+Digite o 14 número: 87
+Digite o 15 número: 66
+Matriz B (fatorial dos números) em ordem crescente:
+-2147483648 -1195114496 0 0 0 0 0 0 0 0 0 0 0 0 6 
+[?2004h

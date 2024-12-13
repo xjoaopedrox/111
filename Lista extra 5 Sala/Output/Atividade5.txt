@@ -1,0 +1,54 @@
+[?2004l
+Digite o 1 número para A: 1^[[3~2       1
+Digite o 2 número para A: 2
+Digite o 3 número para A: 3
+Digite o 4 número para A: 4
+Digite o 5 número para A: 5
+Digite o 6 número para A: 6
+Digite o 7 número para A: 7
+Digite o 8 número para A: 8
+Digite o 9 número para A: 9
+Digite o 10 número para A: 0
+Digite o 11 número para A: 0
+Digite o 12 número para A: 9
+Digite o 13 número para A: 8
+Digite o 14 número para A: 7
+Digite o 15 número para A: 6
+Digite o 16 número para A: 5
+Digite o 17 número para A: 4
+Digite o 18 número para A: 3
+Digite o 19 número para A: 2
+Digite o 20 número para A: 1
+Digite o 1 número para B: 1
+Digite o 2 número para B: 2
+Digite o 3 número para B: 3
+Digite o 4 número para B: 4
+Digite o 5 número para B: 5
+Digite o 6 número para B: 6
+Digite o 7 número para B: 7
+Digite o 8 número para B: 8
+Digite o 9 número para B: 9
+Digite o 10 número para B: 0
+Digite o 11 número para B: 0
+Digite o 12 número para B: 9
+Digite o 13 número para B: 8
+Digite o 14 número para B: 7
+Digite o 15 número para B: 6
+Digite o 16 número para B: 5
+Digite o 17 número para B: 4
+Digite o 18 número para B: 3
+Digite o 19 número para B: 2
+Digite o 20 número para B: 1
+Digite o 21 número para B: 1
+Digite o 22 número para B: 2
+Digite o 23 número para B: 3
+Digite o 24 número para B: 4
+Digite o 25 número para B: 5
+Digite o 26 número para B: 6
+Digite o 27 número para B: 7
+Digite o 28 número para B: 8
+Digite o 29 número para B: 9
+Digite o 30 número para B: 9
+Matriz C (junção de A e B) em ordem decrescente:
+9 9 9 9 9 9 8 8 8 8 8 7 7 7 7 7 6 6 6 6 6 5 5 5 5 5 4 4 4 4 4 3 3 3 3 3 2 2 2 2 2 1 1 1 1 1 0 0 0 0 
+[?2004h

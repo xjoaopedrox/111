@@ -1,0 +1,28 @@
+[?2004l
+Digite o 1 número para A: 2
+Digite o 2 número para A: 4
+Digite o 3 número para A: 6
+Digite o 4 número para A: 8
+Digite o 5 número para A: 10
+Digite o 6 número para A: 12
+Digite o 7 número para A: 14
+Digite o 8 número para A: 16
+Digite o 9 número para A: 19 8
+Digite o 10 número para A: 20
+Digite o 11 número para A: 22
+Digite o 12 número para A: 25 4
+Digite o 1 número para B: 27 6
+Digite o 2 número para B: 29 8
+Digite o 3 número para B: 30
+Digite o 4 número para B: 32
+Digite o 5 número para B: 35 4
+Digite o 6 número para B: 36
+Digite o 7 número para B: 37 8
+Digite o 8 número para B: 40
+Digite o 9 número para B: 42
+Digite o 10 número para B: 44
+Digite o 11 número para B: 4
+Digite o 12 número para B: 46
+Matriz C (soma de A e B) em ordem crescente:
+6 30 34 38 42 46 50 54 58 62 66 70 
+[?2004h

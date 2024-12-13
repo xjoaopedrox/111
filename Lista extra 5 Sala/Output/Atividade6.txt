@@ -1,0 +1,34 @@
+[?2004l
+Digite o 1 número para A: 1
+Digite o 2 número para A: 2
+Digite o 3 número para A: 3
+Digite o 4 número para A: 4
+Digite o 5 número para A: 5
+Digite o 6 número para A: 6
+Digite o 7 número para A: 78 
+Digite o 8 número para A: 8
+Digite o 9 número para A: 9
+Digite o 10 número para A: 0
+Digite o 11 número para A: 9
+Digite o 12 número para A: 8
+Digite o 13 número para A: 7
+Digite o 14 número para A: 6
+Digite o 15 número para A: 5
+Digite o 16 número para A: 4
+Digite o 17 número para A: 3
+Digite o 18 número para A: 2
+Digite o 19 número para A: 1
+Digite o 20 número para A: 1
+Digite o 21 número para A: 2
+Digite o 22 número para A: 3
+Digite o 23 número para A: 4
+Digite o 24 número para A: 5
+Digite o 25 número para A: 6
+Digite o 26 número para A: 7
+Digite o 27 número para A: 8
+Digite o 28 número para A: 9
+Digite o 29 número para A: 0
+Digite o 30 número para A: 9
+Qual número você quer buscar na Matriz B? 4
+Não encontrei esse número na Matriz B.
+[?2004h
