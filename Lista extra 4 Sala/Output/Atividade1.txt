@@ -1,0 +1,13 @@
+[2004l
+Digite o 1 numero 2
+Digite o 2 numero 55
+Digite o 3 numero 65
+Digite o 4 numero 435
+Digite o 5 numero 456
+Matriz B (multiplicada por 3)
+B[1] = 6
+B[2] = 165
+B[3] = 195
+B[4] = 1305
+B[5] = 1368
+[2004h

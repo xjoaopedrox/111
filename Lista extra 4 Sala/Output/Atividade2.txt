@@ -1,0 +1,15 @@
+[?2004l
+Digite o 1 numero: 2, 0
+Digite o 2 numero: 59
+Digite o 3 numero: 8
+Digite o 4 numero: . 53
+Digite o 5 numero: +2  39
+Digite o 6 numero: 3
+Matriz B (fatorial dos números de A):
+B[1] = -2102132736
+B[2] = 0
+B[3] = 40320
+B[4] = 0
+B[5] = 0
+B[6] = 6
+[?2004h

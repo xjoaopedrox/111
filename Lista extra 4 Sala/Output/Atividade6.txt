@@ -1,0 +1,19 @@
+[?2004l
+Digite o 1 numero: 400
+Digite o 2 numero: 28
+Digite o 3 numero: 9
+Digite o 4 numero: 22
+Digite o 5 numero: 45
+Digite o 6 numero: 684
+Digite o 7 numero: 2
+Digite o 8 numero: 3
+Matriz B (quadrado dos elementos de A):
+B[1] = 160000
+B[2] = 784
+B[3] = 81
+B[4] = 484
+B[5] = 2025
+B[6] = 467856
+B[7] = 4
+B[8] = 9
+[?2004h
